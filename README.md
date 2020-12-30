@@ -1,1 +1,1 @@
-# AlternativeSrting
+# Alternative Srting program in Java
